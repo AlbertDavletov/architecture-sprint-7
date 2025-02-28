@@ -1,2 +1,13 @@
 # architecture-sprint-7
-Yandex practicum course: software architect - sprint 7
+
+## Задача
+
+TODO
+
+## Решение
+
+- [Задание 1. Разработка проверочного листа по безопасности данных](./Exc1/README.md)
+- [Задание 2. Разработка и заполнение проверочного листа для бизнес-систем](./Exc2/README.md)
+- [Задание 3. Внешние интеграции](./Exc3/README.md)
+- [Задание 4. Защита доступа к кластеру Kubernetes](./Exc4/README.md)
+- [Задание 5. Управление трафиком внутри кластера Kubertnetes](./Exc5/README.md)
